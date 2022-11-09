@@ -1,1 +1,1 @@
-# notesApp-withRedux
+# Note application prepared using Redux, Context Api, Bootstrap.
